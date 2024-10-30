@@ -1,0 +1,26 @@
+.display-bord{
+  width: 80%;
+  margin-left: 150px;
+  height: 60vh;
+  border-radius: 20px;
+  color: white;
+  background: #000;
+  text-align: center;
+}
+
+.btn{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 2rem;
+}
+
+.btn button{
+  border: none;
+  border-radius: 4px;
+  padding: 10px 24px;
+  cursor: pointer;
+  color: white;
+  background:blue;
+}
